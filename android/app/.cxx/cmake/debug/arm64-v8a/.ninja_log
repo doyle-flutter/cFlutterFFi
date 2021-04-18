@@ -1,3 +1,5 @@
 # ninja log v5
 0	81	1618720438	CMakeFiles/native_add.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/Classes/native_add.cpp.o	57643fb781857a3f
 81	181	1618720438	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	6cf9b738800cfd36
+0	106	1618762991	CMakeFiles/native_add.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	207891fc885c67c9
+106	264	1618762991	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	a6d765aee5cc5945

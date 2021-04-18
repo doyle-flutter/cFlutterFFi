@@ -21,7 +21,7 @@
       "artifactName": "native_add",
       "files": [
         {
-          "src": "/Users/doylekim/AndroidStudioProjects/clangapp/ios/Classes/native_add.cpp",
+          "src": "/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
