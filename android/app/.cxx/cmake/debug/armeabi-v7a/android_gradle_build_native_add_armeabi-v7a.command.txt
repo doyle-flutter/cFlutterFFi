@@ -1,0 +1,7 @@
+Executable : /Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/armeabi-v7a
+native_add
+jvmArgs : 
+

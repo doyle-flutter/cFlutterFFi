@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86'
+[1/2] Building CXX object CMakeFiles/native_add.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/Classes/native_add.cpp.o
+[2/2] Linking CXX shared library /Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libnative_add.so

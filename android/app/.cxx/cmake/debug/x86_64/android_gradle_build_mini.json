@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/doylekim/AndroidStudioProjects/clangapp/android/CMakeLists.txt",
+    "/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-x86_64": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" native_add",
+      "abi": "x86_64",
+      "output": "/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so",
+      "runtimeFiles": []
+    }
+  }
+}
