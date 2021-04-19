@@ -3,3 +3,7 @@
 99	167	1618720438	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	482ff04071e8f31c
 0	514	1618762991	CMakeFiles/native_add.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	10d3c18324e962a3
 515	708	1618762991	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	5be111162f08bed0
+0	737	1618793557	CMakeFiles/na.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	74155f1dadc75cb3
+737	966	1618793557	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libna.so	58d42d4c37682756
+1	344	1618793865	CMakeFiles/ne.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	71a3611e43b98644
+344	435	1618793866	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libne.so	abe3e0081528d5a5

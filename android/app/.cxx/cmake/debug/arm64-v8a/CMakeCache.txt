@@ -220,7 +220,13 @@ Project_BINARY_DIR:STATIC=/Users/doylekim/AndroidStudioProjects/clangapp/android
 Project_SOURCE_DIR:STATIC=/Users/doylekim/AndroidStudioProjects/clangapp/android
 
 //Dependencies for target
+na_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 native_add_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+ne_LIB_DEPENDS:STATIC=
 
 
 ########################

@@ -9,11 +9,11 @@
   ],
   "buildTargetsCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
-    "native_add-Debug-x86": {
-      "artifactName": "native_add",
-      "buildCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86\" native_add",
+    "ne-Debug-x86": {
+      "artifactName": "ne",
+      "buildCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86\" ne",
       "abi": "x86",
-      "output": "/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libnative_add.so",
+      "output": "/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libne.so",
       "runtimeFiles": []
     }
   }

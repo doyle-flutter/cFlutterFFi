@@ -3,3 +3,7 @@
 80	139	1618720438	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libnative_add.so	766675eba31af8db
 0	113	1618762991	CMakeFiles/native_add.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	a7a485e126867480
 113	246	1618762991	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libnative_add.so	8f16b45b535602ea
+0	133	1618793557	CMakeFiles/na.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	2ec3261f7379265b
+133	229	1618793558	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libna.so	4d263634a766decf
+0	77	1618793866	CMakeFiles/ne.dir/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp.o	aad46c720efff8ac
+78	164	1618793866	/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86/libne.so	7e5e4ee5b76adaff

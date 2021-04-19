@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.4.1)  # for example
 
-add_library( native_add
+add_library( ne
 
              # Sets the library as a shared library.
              SHARED

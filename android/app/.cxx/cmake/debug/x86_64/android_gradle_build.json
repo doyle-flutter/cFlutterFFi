@@ -1,7 +1,7 @@
 {
   "stringTable": {
     "0": "/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64",
-    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/doylekim/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dne_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
   },
   "buildFiles": [
     "/Users/doylekim/AndroidStudioProjects/clangapp/android/CMakeLists.txt",
@@ -13,12 +13,12 @@
   ],
   "buildTargetsCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
-    "native_add-Debug-x86_64": {
-      "buildCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" native_add",
+    "ne-Debug-x86_64": {
+      "buildCommand": "/Users/doylekim/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/doylekim/AndroidStudioProjects/clangapp/android/app/.cxx/cmake/debug/x86_64\" ne",
       "buildType": "debug",
       "toolchain": "3354218057",
       "abi": "x86_64",
-      "artifactName": "native_add",
+      "artifactName": "ne",
       "files": [
         {
           "src": "/Users/doylekim/AndroidStudioProjects/clangapp/ios/na.cpp",
@@ -27,7 +27,7 @@
         }
       ],
       "headers": [],
-      "output": "/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86_64/libnative_add.so",
+      "output": "/Users/doylekim/AndroidStudioProjects/clangapp/build/app/intermediates/cmake/debug/obj/x86_64/libne.so",
       "runtimeFiles": []
     }
   },
